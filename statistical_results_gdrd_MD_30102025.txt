@@ -1,0 +1,111 @@
+Metric	Comparison	Test	Statistic	p-value	Significance
+RMSD	Overall	Kruskal-Wallis	2560.993652953673	0.0	***
+RMSD	ana vs gri	Dunn's test		1.100470825650426e-212	***
+RMSD	ana vs mel	Dunn's test		1.7760979350370368e-96	***
+RMSD	ana vs moj	Dunn's test		0.0	***
+RMSD	ana vs sim	Dunn's test		1.157798687939657e-179	***
+RMSD	ana vs vir	Dunn's test		1.0286399329284556e-35	***
+RMSD	ana vs yak	Dunn's test		2.5485666972999044e-162	***
+RMSD	gri vs mel	Dunn's test		2.9081838448014195e-23	***
+RMSD	gri vs moj	Dunn's test		4.642335366294398e-49	***
+RMSD	gri vs sim	Dunn's test		0.23578429112334126	ns
+RMSD	gri vs vir	Dunn's test		8.231873168560716e-73	***
+RMSD	gri vs yak	Dunn's test		0.0015660925458205238	**
+RMSD	mel vs moj	Dunn's test		2.223565191296501e-138	***
+RMSD	mel vs sim	Dunn's test		2.8737577536092743e-13	***
+RMSD	mel vs vir	Dunn's test		1.4021827138200885e-14	***
+RMSD	mel vs yak	Dunn's test		7.40853390790565e-09	***
+RMSD	moj vs sim	Dunn's test		5.839499513724873e-67	***
+RMSD	moj vs vir	Dunn's test		1.613650072886934e-237	***
+RMSD	moj vs yak	Dunn's test		3.0148174304360494e-78	***
+RMSD	sim vs vir	Dunn's test		3.01412641133625e-54	***
+RMSD	sim vs yak	Dunn's test		1.0	ns
+RMSD	vir vs yak	Dunn's test		5.2270440473923676e-45	***
+Rg	Overall	Kruskal-Wallis	2599.613859574163	0.0	***
+Rg	ana vs gri	Dunn's test		7.453566173345972e-194	***
+Rg	ana vs mel	Dunn's test		1.3904729656328187e-55	***
+Rg	ana vs moj	Dunn's test		0.07678874445474483	ns
+Rg	ana vs sim	Dunn's test		1.114810548073019e-18	***
+Rg	ana vs vir	Dunn's test		4.4421658184711097e-274	***
+Rg	ana vs yak	Dunn's test		0.00010975639987328204	***
+Rg	gri vs mel	Dunn's test		1.1288152313587444e-42	***
+Rg	gri vs moj	Dunn's test		1.5366243307838898e-233	***
+Rg	gri vs sim	Dunn's test		1.8780916519934318e-93	***
+Rg	gri vs vir	Dunn's test		5.23314380939683e-08	***
+Rg	gri vs yak	Dunn's test		1.9322465749391162e-139	***
+Rg	mel vs moj	Dunn's test		1.2787692286258766e-77	***
+Rg	mel vs sim	Dunn's test		3.269637063923796e-10	***
+Rg	mel vs vir	Dunn's test		2.4167302435750652e-85	***
+Rg	mel vs yak	Dunn's test		1.6215742969854693e-28	***
+Rg	moj vs sim	Dunn's test		3.2368603505342717e-32	***
+Rg	moj vs vir	Dunn's test		0.0	***
+Rg	moj vs yak	Dunn's test		1.7500555478147219e-12	***
+Rg	sim vs vir	Dunn's test		2.4912176614368474e-152	***
+Rg	sim vs yak	Dunn's test		8.704270403414298e-05	***
+Rg	vir vs yak	Dunn's test		3.6273972031877093e-209	***
+RMSF N-terminus	Overall	Kruskal-Wallis	412.75230730694403	5.063758730297917e-86	***
+RMSF N-terminus	ana vs gri	Dunn's test		0.0007168331809152269	***
+RMSF N-terminus	ana vs mel	Dunn's test		0.009482986858364061	**
+RMSF N-terminus	ana vs moj	Dunn's test		1.4363450876419745e-24	***
+RMSF N-terminus	ana vs sim	Dunn's test		8.594608204577092e-08	***
+RMSF N-terminus	ana vs vir	Dunn's test		0.5340379905121441	ns
+RMSF N-terminus	ana vs yak	Dunn's test		1.5208557852200857e-10	***
+RMSF N-terminus	gri vs mel	Dunn's test		6.035274037808437e-13	***
+RMSF N-terminus	gri vs moj	Dunn's test		6.376018612133709e-07	***
+RMSF N-terminus	gri vs sim	Dunn's test		1.0	ns
+RMSF N-terminus	gri vs vir	Dunn's test		3.5349402047762155e-11	***
+RMSF N-terminus	gri vs yak	Dunn's test		0.27080031807945276	ns
+RMSF N-terminus	mel vs moj	Dunn's test		4.21997137202464e-47	***
+RMSF N-terminus	mel vs sim	Dunn's test		7.12094069258805e-20	***
+RMSF N-terminus	mel vs vir	Dunn's test		1.0	ns
+RMSF N-terminus	mel vs yak	Dunn's test		2.3967593893146224e-24	***
+RMSF N-terminus	moj vs sim	Dunn's test		0.002140296466262285	**
+RMSF N-terminus	moj vs vir	Dunn's test		4.122306276505645e-57	***
+RMSF N-terminus	moj vs yak	Dunn's test		0.07467359096930991	ns
+RMSF N-terminus	sim vs vir	Dunn's test		3.9011024465459805e-19	***
+RMSF N-terminus	sim vs yak	Dunn's test		1.0	ns
+RMSF N-terminus	vir vs yak	Dunn's test		1.5830239489973462e-24	***
+RMSF Core	Overall	Kruskal-Wallis	320.4901689542845	3.3143909571800905e-66	***
+RMSF Core	ana vs gri	Dunn's test		0.00012149332099281775	***
+RMSF Core	ana vs mel	Dunn's test		1.0	ns
+RMSF Core	ana vs moj	Dunn's test		3.743077765927338e-18	***
+RMSF Core	ana vs sim	Dunn's test		0.03366800986232782	*
+RMSF Core	ana vs vir	Dunn's test		1.0	ns
+RMSF Core	ana vs yak	Dunn's test		8.752252868558877e-17	***
+RMSF Core	gri vs mel	Dunn's test		0.0041653249042126455	**
+RMSF Core	gri vs moj	Dunn's test		1.4523847753456802e-40	***
+RMSF Core	gri vs sim	Dunn's test		3.1043333786724146e-13	***
+RMSF Core	gri vs vir	Dunn's test		0.01973322258900328	*
+RMSF Core	gri vs yak	Dunn's test		1.6523425833007617e-38	***
+RMSF Core	mel vs moj	Dunn's test		1.6079948264710298e-21	***
+RMSF Core	mel vs sim	Dunn's test		0.0015201892899465049	**
+RMSF Core	mel vs vir	Dunn's test		1.0	ns
+RMSF Core	mel vs yak	Dunn's test		4.98903535571697e-20	***
+RMSF Core	moj vs sim	Dunn's test		9.120158610047124e-08	***
+RMSF Core	moj vs vir	Dunn's test		2.434766318662202e-23	***
+RMSF Core	moj vs yak	Dunn's test		1.0	ns
+RMSF Core	sim vs vir	Dunn's test		0.0002476191534683774	***
+RMSF Core	sim vs yak	Dunn's test		7.167791955405799e-07	***
+RMSF Core	vir vs yak	Dunn's test		8.723507351069803e-22	***
+RMSF C-terminus	Overall	Kruskal-Wallis	270.0912582094059	2.073915844601135e-55	***
+RMSF C-terminus	ana vs gri	Dunn's test		8.980951227718433e-06	***
+RMSF C-terminus	ana vs mel	Dunn's test		1.0	ns
+RMSF C-terminus	ana vs moj	Dunn's test		2.5856076592925203e-25	***
+RMSF C-terminus	ana vs sim	Dunn's test		1.0	ns
+RMSF C-terminus	ana vs vir	Dunn's test		1.0	ns
+RMSF C-terminus	ana vs yak	Dunn's test		0.02069384472087988	*
+RMSF C-terminus	gri vs mel	Dunn's test		7.124273051895334e-07	***
+RMSF C-terminus	gri vs moj	Dunn's test		8.951696347961666e-09	***
+RMSF C-terminus	gri vs sim	Dunn's test		2.2455761256614737e-06	***
+RMSF C-terminus	gri vs vir	Dunn's test		1.8334031647807062e-12	***
+RMSF C-terminus	gri vs yak	Dunn's test		1.0	ns
+RMSF C-terminus	mel vs moj	Dunn's test		8.388597240659313e-28	***
+RMSF C-terminus	mel vs sim	Dunn's test		1.0	ns
+RMSF C-terminus	mel vs vir	Dunn's test		1.0	ns
+RMSF C-terminus	mel vs yak	Dunn's test		0.00445287131718542	**
+RMSF C-terminus	moj vs sim	Dunn's test		8.565630225133325e-27	***
+RMSF C-terminus	moj vs vir	Dunn's test		2.506542071852258e-43	***
+RMSF C-terminus	moj vs yak	Dunn's test		2.2449738525633505e-11	***
+RMSF C-terminus	sim vs vir	Dunn's test		1.0	ns
+RMSF C-terminus	sim vs yak	Dunn's test		0.00921142551311718	**
+RMSF C-terminus	vir vs yak	Dunn's test		5.02764579193393e-06	***
